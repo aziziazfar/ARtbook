@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cfd5ac5eae10cfb46a8736958f97257d
+  - enabled: 1
+    path: Assets/Scenes/EasyMenu.unity
+    guid: ad0e1c0527589fb43a64baf471402f86
+  - enabled: 1
+    path: Assets/Scenes/IntermediateMenu.unity
+    guid: d3fbba9fa91b0f842b896c2f6eec4a02
+  - enabled: 1
+    path: Assets/Scenes/HardMenu.unity
+    guid: 8eed62aec45786043b2ed4e11a4b1e88
+  - enabled: 1
+    path: Assets/Scenes/EasyMenu Items/EasyPic1.unity
+    guid: 9884a72d06104497cb209d5b62b54ecf
+  - enabled: 1
+    path: Assets/Scenes/EasyMenu Items/EasyPic2.unity
+    guid: cfe1d54ba95bb4017b6736c2ee9a1db7
+  - enabled: 1
+    path: Assets/Scenes/IntermediateMenu Items/IntermediatePic1.unity
+    guid: ef566aed631274a9785c0899086ef329
+  - enabled: 1
+    path: Assets/Scenes/IntermediateMenu Items/IntermediatePic2.unity
+    guid: 725b9c278ead0447a82aa5792d71c02e
+  - enabled: 1
+    path: Assets/Scenes/HardMenu Items/HardPic1.unity
+    guid: 27305206e02664acaa4cc43066b30fa0
+  - enabled: 1
+    path: Assets/Scenes/HardMenu Items/HardPic2.unity
+    guid: fe42cd3a1782a43618d8f0ccd6082a6a
+  m_configObjects: {}
