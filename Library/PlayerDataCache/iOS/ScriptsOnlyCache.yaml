@@ -32,6 +32,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.RawImage
+    - UnityEngine.UI.Shadow
     - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/EasyMenu Items/EasyPic1.unity:
@@ -709,6 +710,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9920}
     - Class: 114
+      Script: {instanceID: 10302}
+    - Class: 114
       Script: {instanceID: 10386}
     - Class: 114
       Script: {instanceID: 10854}
@@ -1367,4 +1370,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/IntermediateMenu Items/IntermediatePic2.unity
   - Assets/Scenes/HardMenu Items/HardPic1.unity
   - Assets/Scenes/HardMenu Items/HardPic2.unity
-  playerPath: /Users/admin/Desktop/ARtbook/ARtbook/ARtbook 0.3.1
+  playerPath: /Users/admin/Desktop/ARtbook/Builds/ARtbook 0.4.0
