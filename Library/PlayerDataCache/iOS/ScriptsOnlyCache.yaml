@@ -67,8 +67,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 9920}
-    - Class: 114
       Script: {instanceID: 9960}
     - Class: 114
       Script: {instanceID: 10102}
@@ -82,6 +80,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 10580}
     - Class: 114
       Script: {instanceID: 10854}
+    - Class: 114
+      Script: {instanceID: 10874}
     - Class: 114
       Script: {instanceID: 11102}
     - Class: 114
@@ -148,8 +148,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 9920}
-    - Class: 114
       Script: {instanceID: 9960}
     - Class: 114
       Script: {instanceID: 10102}
@@ -163,6 +161,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 10580}
     - Class: 114
       Script: {instanceID: 10854}
+    - Class: 114
+      Script: {instanceID: 10874}
     - Class: 114
       Script: {instanceID: 11102}
     - Class: 114
@@ -282,8 +282,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 9920}
-    - Class: 114
       Script: {instanceID: 9960}
     - Class: 114
       Script: {instanceID: 10102}
@@ -297,6 +295,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 10580}
     - Class: 114
       Script: {instanceID: 10854}
+    - Class: 114
+      Script: {instanceID: 10874}
     - Class: 114
       Script: {instanceID: 11102}
     - Class: 114
@@ -363,8 +363,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 9920}
-    - Class: 114
       Script: {instanceID: 9960}
     - Class: 114
       Script: {instanceID: 10102}
@@ -378,6 +376,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 10580}
     - Class: 114
       Script: {instanceID: 10854}
+    - Class: 114
+      Script: {instanceID: 10874}
     - Class: 114
       Script: {instanceID: 11102}
     - Class: 114
@@ -497,8 +497,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 9920}
-    - Class: 114
       Script: {instanceID: 9960}
     - Class: 114
       Script: {instanceID: 10102}
@@ -512,6 +510,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 10580}
     - Class: 114
       Script: {instanceID: 10854}
+    - Class: 114
+      Script: {instanceID: 10874}
     - Class: 114
       Script: {instanceID: 11102}
     - Class: 114
@@ -578,8 +578,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9876}
     - Class: 114
-      Script: {instanceID: 9920}
-    - Class: 114
       Script: {instanceID: 9960}
     - Class: 114
       Script: {instanceID: 10102}
@@ -593,6 +591,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 10580}
     - Class: 114
       Script: {instanceID: 10854}
+    - Class: 114
+      Script: {instanceID: 10874}
     - Class: 114
       Script: {instanceID: 11102}
     - Class: 114
@@ -1370,4 +1370,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/IntermediateMenu Items/IntermediatePic2.unity
   - Assets/Scenes/HardMenu Items/HardPic1.unity
   - Assets/Scenes/HardMenu Items/HardPic2.unity
-  playerPath: /Users/admin/Desktop/ARtbook/Builds/ARtbook 0.5.4
+  playerPath: /Users/admin/Desktop/ARtbook/Builds/ARtbook 1.0.0
