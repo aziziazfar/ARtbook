@@ -571,7 +571,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   placedPrefabs:
-  - {fileID: 8274857756036918070, guid: 9a48bf9dc431e4eaba108728bdcb9ac7, type: 3}
+  - {fileID: 2056288067317305710, guid: b701ed284479249ecb85165da27d96e7, type: 3}
   debugText: {fileID: 1942674632}
   maxNumberOfTVs: 1
   videoClips: []

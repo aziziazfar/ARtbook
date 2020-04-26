@@ -83,7 +83,7 @@ public class ImagePlacement : MonoBehaviour
                         debugText.text += "Prefab Placed\n";
                         Quaternion newRotation = new Quaternion();
                         debugText.text += hitPose.rotation.x.ToString() + ", " + hitPose.rotation.y.ToString() + ", " + hitPose.rotation.z.ToString() + "\n";
-                        newRotation.Set(90, 90, 90, 1 );
+                        newRotation.Set(0, 90, 90, 1 );
                         //GameObject addedPrefab = Instantiate(randomPrefab, hitPose.position, hitPose.rotation);
                         GameObject addedPrefab = Instantiate(randomPrefab, hitPose.position, newRotation);
                         addedInstances.Add(addedPrefab);
