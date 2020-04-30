@@ -1,6 +1,8 @@
 #ARtbook
 AR Project developed using Unity and ARFoundation for CS4240 | INTERACTION DESIGN FOR VIRTUAL AND AUGMENTED REALITY.
 
+![image](Assets/Images/Poster.jpeg)
+
 ARtbook is an application aimed at providing users a guidebook for drawing using AR technology. This allows users to trace the images and draw to their heart's content.
 
 Group 3 Members:
